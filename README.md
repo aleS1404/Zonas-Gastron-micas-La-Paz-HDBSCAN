@@ -1,6 +1,7 @@
 # Zonas Gastronómicas de La Paz — Proyecto Completo v2
 **Aprendizaje No Supervisado · HDBSCAN + UMAP · Streamlit**
-
+link to streamlit
+https://zonas-gastron-micas-la-paz-hdbscan-bgfn52pxgkaqqbunkfyjly.streamlit.app/
 ---
 
 ## Corrección aplicada en esta versión
