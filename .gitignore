@@ -1,0 +1,22 @@
+# Entorno virtual
+.venv/
+
+# Carpetas random
+img/
+SalazarAlexandra/
+
+# Comprimidos
+*.rar
+*.zip
+
+# Word
+*.docx
+~$*
+
+# Python
+__pycache__/
+*.pyc
+
+# Sistema
+.DS_Store
+Thumbs.db
